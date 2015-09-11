@@ -1,6 +1,6 @@
 {
   "name": "get-assemble-pages",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "get assemble page files",
   "main": "index.js",
   "scripts": {
