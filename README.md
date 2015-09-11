@@ -20,11 +20,11 @@ $ npm i --save get-assemble-pages
 
 In assemble plugin:
 ```js
-var getLayouts = require('get-assemble-pages');
+var getPages = require('get-assemble-pages');
 
 module.exports = function (params, cb) {
 
-  getLayouts(params, function (err, data) {
+  getPages(params, function (err, data) {
     console.log(data);
     // => [ 'src/pages/docs.hbs',
             'src/pages/example.hbs',
