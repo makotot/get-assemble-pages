@@ -24,7 +24,5 @@
     "jit-grunt": "^0.9.1",
     "time-grunt": "^1.2.1"
   },
-  "dependencies": {
-    "fs-utils": "^0.6.0"
-  }
+  "dependencies": {}
 }
